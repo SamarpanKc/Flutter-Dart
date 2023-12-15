@@ -12,8 +12,8 @@
 
 ### Types of Variables
 There are two types of variables:
-– Local variable
-– Global variable
+- Local variable
+- Global variable
 
 **Local variables** are those that are in scope within a
 a specific part of the program (function, procedure,
@@ -24,5 +24,5 @@ programming language employed).
 duration of the program execution. They can be
 accessed by any part of the program, and are readwrite for all statements that access them.
 
-## Q. Which types of values are stored by Variables ?
+## Q. Which types of values are stored by Variables?
 > Datatypes
