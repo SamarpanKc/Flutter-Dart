@@ -1,4 +1,4 @@
-### Function
+# Function
 - Functions are small piece of code performing a particular task. They help in modularizing our program.
 - Class भित्र यस्ताे instruction छ जुन बेला बेला use गरीरहन पर्छ, त्याे एक्कै चाेटीमा short मा बेला बेला लेख्न नपर्ने 
 
