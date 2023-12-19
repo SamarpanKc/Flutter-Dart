@@ -10,6 +10,11 @@
 - The name given to the memory location is called variables.
 - A variable has a data type such as number, string (for text), date, and Boolean (for true or false).
 
+## Variables
+- Variables are used to store data values.
+- Name given to the memory location is called variables.
+- A variable has a data type such as number, string (for text), date, and Boolean (for true or false).
+
 ### Types of Variables
 There are two types of variables:
 - Local variable
