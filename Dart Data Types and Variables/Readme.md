@@ -10,10 +10,10 @@
 - The name given to the memory location is called variables.
 - A variable has a data type such as number, string (for text), date, and Boolean (for true or false).
 
-## Variables
-- Variables are used to store data values.
-- Name given to the memory location is called variables.
-- A variable has a data type such as number, string (for text), date, and Boolean (for true or false).
+## Some rules for variables
+1. Variable names should not begin with numbers (integers), but ending in num is acceptable. For example, `int 1_age` is invalid, but `int age_1` is. 
+2. Keywords should not appear in variable names. For example, `int int = 18;` is incorrect. 
+3. Variable names should not contain white spaces. `String my name` is valid when used instead of (_) of `String my_name`.
 
 ### Types of Variables
 There are two types of variables:
