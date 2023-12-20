@@ -1,8 +1,8 @@
 # Operators
-## 1. Arithmetics Operators
-## 2. Assignment Operators
-## 3. Relational Operators
-## 4. Logical Operators
+1. Arithmetics Operators
+2. Assignment Operators
+3. Relational Operators
+4. Logical Operators
 
 ## 1. Arithmetics Operators
 - Arithmetic operators are used to perform arithmetic operations on variables and data. 
@@ -16,9 +16,10 @@
 | *        | Multiplication|
 | %        | Modulos      |
 - Modulos operator operates Remainder after division.
-### Increment and Decrement Operators
+### * Increment and Decrement Operators
 - `++` increases the value of the operand by 1
 - `--` decreases it by 1
+- For Example, `int a = 12;` `print(++a);`
 
 ## 2. Assignment Operators
 - Assignment operators are used to assign values to variables.
@@ -54,6 +55,6 @@
 | Operator | Description           | Example  |
 |----------|-----------------------|----------|
 | AND      | Returns true if both operands are true | `true && false` returns `false` |
-| OR       | Returns true if at least one operand is true | `true || false` returns `true` |
+| OR       | Returns true if at least one operand is true | true || false returns `true` |
 | NOT      | Returns the opposite of the operand's value | `!true` returns `false` |
 
