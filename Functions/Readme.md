@@ -54,4 +54,4 @@ The basic syntax of a function in Dart:
 
  Functions play a vital role in structuring Dart programs, facilitating code reuse and improving maintainability.
 
- _Thank You!_😊💖
+ _Thank You!_ 😊💖
